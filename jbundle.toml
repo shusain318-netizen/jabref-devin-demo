@@ -1,4 +1,4 @@
-java_version = 25
+java_version = 26
 target = "linux-x64"
 jvm_args = [
         "--add-modules", "jdk.incubator.vector",
