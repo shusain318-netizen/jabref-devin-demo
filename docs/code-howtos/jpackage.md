@@ -3,7 +3,7 @@ parent: Code Howtos
 ---
 # jpackage: Creating a binary and debug it
 
-JabRef uses [jpackage](https://docs.oracle.com/en/java/javase/25/jpackage/) to build binary application bundles and installers for Windows, Linux, and macOS. For Gradle, we use the [Java Module Packaging Gradle plugin](https://github.com/gradlex-org/java-module-packaging).
+JabRef uses [jpackage](https://docs.oracle.com/en/java/javase/26/jpackage/) to build binary application bundles and installers for Windows, Linux, and macOS. For Gradle, we use the [Java Module Packaging Gradle plugin](https://github.com/gradlex-org/java-module-packaging).
 
 ## Building locally
 
